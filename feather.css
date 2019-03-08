@@ -1,0 +1,100 @@
+body {
+    margin: 0% 10%;
+    width: 80%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: lighter;
+}
+
+h0 {
+    display: block;
+    font-size: 2.5em;
+    font-weight: 100;
+}
+
+
+/* Text formatting */
+b { font-weight: 600; }
+code { font-size: 16px; }
+
+red { color: red; }
+green { color: rgb(7, 167, 7); }
+blue { color: blue; }
+grey { color: rgb(173, 173, 173); }
+
+
+/* Form and form elements */
+input {
+    margin: 10px 0px;
+    border: 1px solid black;
+}
+
+input[type="text"], input[type="password"], 
+input[type="email"], input[type="number"], 
+input[type="search"], input[type="date"] {
+    font-size: 1em;
+    padding: 7px 5px;
+}
+
+
+input[type="checkbox"] {
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+}
+
+input[type="reset"], input[type="submit"], button {
+    font-size: 0.85em;
+    border: 1px solid rgb(124, 125, 126);
+    padding: 4px 8px;
+    background-color: rgb(219, 218, 218);
+    box-shadow: none;
+}
+
+input:hover, button:hover {
+    border: 1.2px solid rgb(20, 90, 160);
+}
+
+/* Miscellaneous */
+
+a:link, a:visited { 
+    color: rgb(68, 118, 255);
+    text-decoration: none;
+}
+
+a:link:hover, a:visited:hover {
+    color: rgb(62, 108, 233);
+}
+
+a:active {
+    color: blue;
+    font-weight: bold;
+}
+
+p {
+    text-align: justify;
+}
+
+/*table*/
+
+table, tr, th, td {
+    border-width: 2px 0px;
+    border-style: solid;
+    border-color: rgb(197, 197, 197);
+    border-collapse: collapse;
+}
+
+td, th { 
+    padding: 10px 22px;
+    text-align: center;
+}
+
+th {
+    background-color: lightgray;
+}
+
+
+
