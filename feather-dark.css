@@ -101,5 +101,11 @@ th {
     background-color: rgb(49, 48, 48);
 }
 
+@media only screen and (max-width: 800px) {
+    body {
+        margin: 0% 1%;
+        width: 99%;
+    }
+  }
 
 
