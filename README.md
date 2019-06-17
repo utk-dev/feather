@@ -22,7 +22,7 @@ A: Yes, but they are too bloated for what I'm trying to achieve.
 Q: Something doesn't look right on my page. What do I do? <br>
 A: You can always write your own styles on top of _Feather_.
 
-Q: Is featherCSS related to featherJS?
+Q: Is featherCSS related to featherJS? <br>
 A: Hell NO! Do not associate my artwork with that garbage framework.
 
 Q: I want more elements styled by feather. <br>
