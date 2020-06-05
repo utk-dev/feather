@@ -5,11 +5,11 @@ Yes, it's that simple.
 
 It has a DARK MODE version for people who want that!
 
-[Light Mode File](https://feather.cf/feather.css "Feather-Light")
-```<link rel="stylesheet" href="https://feather.cf/feather.css">```
+[Light Mode File](https://raw.githubusercontent.com/utk-dev/feather/master/feather.css "Feather-Light")
+```<link rel="stylesheet" href="https://raw.githubusercontent.com/utk-dev/feather/master/feather.css">```
 
-[Dark Mode File](https://feather.cf/feather-dark.css "Feather-Dark")
-```<link rel="stylesheet" href="https://feather.cf/feather-dark.css">```
+[Dark Mode File](https://raw.githubusercontent.com/utk-dev/feather/master/feather-dark.css "Feather-Dark")
+```<link rel="stylesheet" href="https://raw.githubusercontent.com/utk-dev/feather/master/feather-dark.css">```
 
 Recommended Usage: Don't write your own styles on top of feather. It'd take more effort compared to a clean slate. In case feather doesn't look right to you, don't use it.
 
